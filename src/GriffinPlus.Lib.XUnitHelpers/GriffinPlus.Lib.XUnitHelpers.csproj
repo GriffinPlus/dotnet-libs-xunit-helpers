@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.0</TargetFrameworks>
+    <AssemblyName>GriffinPlus.Lib.XUnitHelpers</AssemblyName>
+    <RootNamespace>GriffinPlus.Lib.Tests</RootNamespace>
+  </PropertyGroup>
+
+</Project>
